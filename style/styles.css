@@ -1,0 +1,180 @@
+body{
+    margin-top: 0;
+    padding: 0;
+    text-align: center;
+    
+    text-decoration: none;
+    
+}
+.profession-name{
+    font-size:  2.5rem;;
+}
+h1{
+    color: #445f5f;
+}
+h2{
+    color: #66BFBF;
+    
+}
+h1{
+    font-size: 562.5%;
+    margin-top: 0;
+    font-family: "Sacramento", cursive;
+}
+h2{
+    font-weight: normal;
+}
+h3{
+    font-family: "Montserrat Subrayada", sans-serif;
+}
+hr{
+    width: 30%;
+    
+}
+a{
+    text-decoration: none;
+}
+ .nav-texts a  {
+   
+    padding: 5px 7px;
+    border-radius: 19px;
+    color: rgb(87, 78, 78);
+}
+ .nav-texts :hover{
+    background-color: rgb(70, 61, 61);
+    color: rgb(255, 255, 255);
+    border-radius: 6px;
+    transition: 1s;
+}
+p a:hover{
+    color: white;
+}
+.main-body{
+   
+}
+.left-nav-elem{
+   
+    width: 45%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.top-element{
+  z-index: 1;
+  margin-top: 45px;
+  padding-top: 10%;
+
+  
+    
+}
+.greeting{
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 2.5rem;
+}
+.top-element-topimage{
+    position: absolute;
+    right: 40%;
+    top: 400px;
+}
+.top-element-bottomimage{
+    position: absolute;
+    left: 290px;
+    bottom: 200px;
+}
+
+.mountain-img{
+    display: inline-block;
+    width: 50%;
+    margin: auto;
+   
+}
+.nav-bar{
+    z-index: 2;
+    height:80px;
+    border-bottom-width:1px ;
+    border-top-width:1px ;
+    border-style: solid;
+    border-left:none ;
+    border-right: none;
+    position: fixed;
+    width:100%;
+    right: 0;
+    top: 0;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    background-color: whitesmoke;
+    color: white;
+    margin-bottom: 0;
+   
+}
+.right-nav-elem{
+    display: flex;
+    position: absolute;
+    right: 50px;
+    justify-content: space-between;
+    width: 35%;
+    margin-right: 10%;
+    padding: 0.5% 3%;
+}
+.profile{
+   
+   padding-top: 50px;
+}
+.profile-image{
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+    margin-top: 10px;
+}
+.my-skills{
+ 
+}
+.my-skills-image{
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+    
+
+}
+.link-images{
+    height: 75px;
+    
+}
+.contents-images,.contents-images-2{
+    display: flex;
+    justify-content: center;
+ 
+    align-items: center;
+    margin-top: 25px;
+   
+   
+}
+
+.texts-content{
+    width: 60%;
+  
+    margin-left: 10%;
+   
+}
+.topic-skill{
+color: #66BFBF;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.skill-descrip{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text-div{
+   
+    width: 50%;
+}
+.top-icon-image{
+    height: 70px;
+    width: 70px;
+    border-radius: 35px;
+}
